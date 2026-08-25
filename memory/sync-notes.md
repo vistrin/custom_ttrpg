@@ -94,5 +94,28 @@ Status: exploratory session — one candidate mechanical approach to Will/Way, n
 - **Artifact produced:** `Will_and_Way_Mechanics_Reference.docx` — a print-style reference document capturing this session's specific candidate ruleset in full. A snapshot of one exploration, not a proposal to merge into canon as-is.
 
 ---
+## Mechanics chat — 2026-08-25
+
+Status: compared against canonical doc and existing sync-notes entry, **no conflicts found**. All entries below are additive/proposed, not locked.
+
+- **Four-Mode ↔ Will/Way reconciliation (partial)** — belongs under "Magic — Four-Mode Exploration"
+  - Command lines up with high Push + thin Way: forcing the toll yourself, minimal odds-improvement from preparation, real stakes.
+  - Encourage lines up with leaning on Way, especially Place/Company at high tier: low Push needed because the odds are already favorable via an existing groove.
+  - Ask and Surrender still have no clean mechanical home — flagged as a genuine gap, not resolved here. Closest existing scaffolding for Ask: Transference's Bonded-tier Company gate, or the demon Will-for-Way trade already logged under Tone & Philosophy. Surrender has no current analog at all — may need a new special Will action (Mechanics Reference §8) if Four-Mode is meant to fully reconcile.
+
+- **My-osmology as origin story for Company/Place, not a new bolt-on** — belongs under "Magic — Cosmology & Feel," cross-references the worldbuilding chat's pending "Evil is real × my-osmology unification" entry above
+  - Company's "cooperative intent = lower resistance" (its stated thesis: "You are my Way. I am your Will. Together we are One.") and Place's reward for stillness/presence (Mechanics Reference §5.4, §5.8) already encode the inertia mechanism my-osmology describes, at personal-relationship and single-location scale respectively. Proposed as the physical explanation underneath those two Way elements already in the Mechanics Reference, not a separate system.
+
+- **Group Working mechanism, proposed** — addresses open thread "Group Working mechanics"
+  - Ambient/diffuse cooperative intent from a crew, including non-casters, could function as a Company/Place-style resistance-lowering contribution for one embedded specialist caster, without every crew member needing to be a caster. Candidate explanation for (a) why the Event was catastrophic at civilization scale — coordinated intent breaking down, resistance reversing rather than merely increasing — and (b) how the Throughway's "magic assists but doesn't replace labor" premise works mechanically.
+
+- **Duration axis, proposed resolution** — addresses open thread "Whether Duration/Control axes should be added to match the FaD tree model"
+  - Candidate answer: no new purchasable axis needed. Tether (Mechanics Reference §8.1) already establishes the pattern — an ongoing effect costs the caster continuously, paid every round, collapsing the moment they stop paying. If that's the general model for "ongoing" rather than a bought tier, it stays consistent with the locked no-mana-as-battery rule (can't pre-buy safety across time). Needs a decision: is Duration a true sixth branch axis, or does this close the open question outright?
+
+- **Way-element ↔ FaD upgrade-category mapping** — cross-reference for whoever formalizes Mechanics Reference §6's branching grammar
+  - Range↔Place, Magnitude↔Company, Control↔Form line up cleanly. Duration is the one clean gap (see above). Strength/Mastery don't have an obvious independent slot — may already be absorbed into Push tier + Cost/Offering's exchange rate rather than needing their own element.
+
+- **Retired, not proposed:** a Morality/Conflict-style personal corruption track for overusing raw Will was floated and explicitly discarded this session — it conflicts with the locked "Cost/benefit, not cosmic balance" / no-karmic-ledger rule. Noting only so it doesn't get reinvented; the worldbuilding chat's pending inertia-based entry above covers the same instinct without the conflict.
+---
               *(Next chat: append your entry above this line, using the format above.)*
               
