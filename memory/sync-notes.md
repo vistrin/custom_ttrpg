@@ -62,5 +62,41 @@ Status: compared against canonical doc + other pending entry in this file, **no 
   - Workflow fix for the scale problem (fully fleshing out N cultures × M peoples is exponential): define one or two generative axis(es) of internal disagreement per people up front (elves: attachment vs. protective distance from short-lived people; dwarves: toughness as private virtue vs. communal duty; orcs: raiding vs. non-raiding survival strategy, and cost of integration; dragons: whether Event-knowledge should stay buried or come out), then invent actual factions lazily, one at a time, at point of narrative need — same "grow into it" discipline already locked for government/economics.
 
 - **Genesys mechanical note (flagged for Mechanics chat, not resolved here):** Genesys species design already uses starting-characteristic arrays + Wound/Strain thresholds + starting-XP-as-balancing-currency instead of flat D&D-style "+2 stat" bonuses, and pairs every special ability with a real in-package cost (e.g. book's own elf/dwarf examples). This is good alignment with the narrative "cost in a different currency" principle above and needs no new mechanical invention — just confirms the existing chassis already supports it. Open/unresolved: whether mixed-ancestry (half-elf/half-orc-style) characters get a formal subsystem, since Genesys core treats species choice as a single fixed pick.
+
+## Mechanics chat — 2026-08-24
+
+Status: compared against canonical doc and other sync-notes entries, **no conflicts found**. All entries below are additive; several close out or advance existing Open Threads rather than opening new ones.
+
+- **Push tier dice mechanics, corrected** (belongs in Mechanics — System Feel, or a new Magic Mechanics section if one gets split out)
+  - "Upgrade difficulty" = convert an existing Difficulty (purple) die to a Challenge (red) die, only adding a new Challenge die if none remain to convert. Corrects earlier drift toward treating upgrade and add as separate/stacking dice.
+  - Push tiers finalized: Cautious (no change) → Bold (+1 Challenge) → Reckless (+2 Challenge, upgrade once) → Desperate (+3 Challenge, upgrade twice).
+
+- **Toll vs. Offering, disambiguated** (belongs in Magic — Cosmology & Feel, near Cost/benefit-not-cosmic-balance)
+  - "Toll" = the fixed strain/wound price of a push tier, paid by everyone regardless of training.
+  - "Offering" = the Way element letting a trained caster change *what currency* pays the toll (narrative cost substituted for strain/wounds) — never reduces the toll's size, only its currency. Keeps "nothing buys the stakes down" intact.
+
+- **Overreach: deficit concept clarified, tables drafted** (advances the existing "Deficit-to-d100 conversion rate" Open Thread — rate itself still TBD)
+  - Deficit = gap between toll owed and what the caster can actually pay; triggers Overreach when a caster commits to a toll beyond their capacity. Modifies a d100 roll upward (structurally modeled on FaD's +10-per-Triumph convention on Critical Injury rolls) — exact conversion rate remains open.
+  - Draft Backlash table (01–90: Overtaxed / Drained / Shaken / Fractured Focus / Spillover / Break) and Catastrophic table (91–100: Marked / Broken Vessel / Undone) written up in full; Catastrophic explicitly allows permanent results resistant to conventional treatment, consistent with the existing "permanent results resist conventional treatment" rule.
+
+- **Transference, new special Will action** (belongs in Death/Undeath or a Special Actions section; sits alongside the already-referenced Tether)
+  - Redirects harm from one person to another, gated on Bonded-tier Company (hard gate, not a difficulty mod) rather than training. Reactive/instantaneous, no concentration. On failure, harm splits between both parties rather than fully transferring ("the universe honors the gesture imperfectly").
+  - Tether (already referenced in canonical doc under the revenant/undeath thread) formalized: Form + Cost/Offering, ongoing concentration, doesn't heal/stabilize — holds a target at a threshold and grants a limited window of agency. Overreach redirect rule: results are shared with the tethered target; Catastrophic results risk pulling the caster toward the same threshold.
+
+- **Way element tier tables + shared upgrade grammar** (advances "Full branching unlock trees for all five Way elements" Open Thread — Tools tree built; Place/Form/Company/Cost still need full trees)
+  - Rank-gate table confirmed: Will/Way rank 1–2 → Tier 1, 3–4 → Tier 2, 5+ → Tier 3; untrained casters limited to Cost/Offering only.
+  - Element relationship-to-intent categories locked: Absent (no effect) / Approximate (counts fully, bends outcome specificity) / Opposed (rare, binary, GM-adjudicated, reserved for genuine contradictions — not a default penalty for imperfect conditions).
+  - Shared axis grammar proposed across Place/Tools/Form/Company (Cost/Offering deliberately exempt, stays purely transactional): Potency / Reach / Volume / Guard — explicitly modeled on FaD's Force power trees (Strength/Magnitude/Range/Duration/Control/Mastery), closing the loop on the "validate against FaD" design-by-analogy habit already noted in the canonical doc.
+  - Full worked branching example built for Tools ("Warding Charm" progressing through Reach → Volume → Guard). Place and Form axis-by-axis breakdowns discussed narratively but not yet tabled with full tier numbers.
+
+- **Single "Will" skill confirmed** (belongs in Mechanics — System Feel or wherever skill list ends up documented)
+  - Deliberately kept to one rolled skill (paired with Willpower) rather than tradition-based skills, to balance the five new Way skills already being added. Explicit tradeoff, not an oversight.
+
+- **Rollable-Way variant — considered and shelved, not adopted** (worth a line in Open Threads if it's kept at all, otherwise safe to omit)
+  - Explored as a "for funsies" tangent: what if Way were an independent rolled check instead of a deterministic modifier? Rejected for solo casting because it breaks "Way is never the thing that succeeds or fails," which was doing real work supporting the "mastery narrows odds, never removes risk" principle. Idea flagged as possibly worth reserving specifically for **Group Workings**, where genuine uncertainty (coordination/timing/trust) already exists narratively and isn't currently modeled at all — ties directly into the still-open Group Working Mechanics thread.
+
+- **Artifact produced:** `Will_and_Way_Mechanics_Reference.docx` (v1) — a full print-style reference covering everything above plus the casting pipeline and Overreach tables, generated this session. Not in the repo; exists as a chat deliverable. Flagging in case a mechanics-specific markdown file should eventually mirror it the way design-themes.md mirrors worldbuilding.
+
+---
               *(Next chat: append your entry above this line, using the format above.)*
               
